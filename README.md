@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dinujayadisanayaka
-- 👀 I’m interested in Web and Mobile developments
+- 👀 I’m interested in Software Testing both Manual and Automated
 - 🌱 I’m currently reading for Bsc (Hons) Information Technology & Management Degree in University of moratuwa.
 - 📫 Reach me via dmnddisanayaka@gmail.com / 0778762827
 <!---
